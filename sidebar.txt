@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ksv:home|Door43 (ksv)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ksv|d43-ksv repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ksv/archive/master.zip|d43-ksv.zip]]
+
+**Recent Changes**
+{{changes>ns = ksv}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ksv|Ethnologue data]]
+
